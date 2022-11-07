@@ -1,0 +1,9 @@
+.product{
+    background: #e2e1e1; 
+    text-align: center;
+    margin: 1rem auto;
+    width: 50%;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 0 25px rgb(0,0,0,0.0.7);
+}
